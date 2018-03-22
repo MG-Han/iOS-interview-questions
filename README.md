@@ -1,2 +1,2 @@
-# iOS-interview-questions (Korean)
+# iOS-interview-questions
 
